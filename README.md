@@ -11,7 +11,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 	> git clone https://github.com/rpasqualone/react-redux-book-list.git
-	> cd ReduxSimpleStarter
+	> cd react-redux-book-list
 	> npm install
 	> npm start
 ```
